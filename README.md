@@ -21,20 +21,20 @@ python 3.6
 ## 报文详情
 **主页**
 
-![]()
+![](https://github.com/FrostwYc/web_frameword/blob/master/images/homepage.png)
 
 **注册**
 
-![]()
+![](https://github.com/FrostwYc/web_frameword/blob/master/images/register.png)
 
 **登录**
 
-![]()
+![](https://github.com/FrostwYc/web_frameword/blob/master/images/login.png)
 
 **微博**
 
-![]()
+![](https://github.com/FrostwYc/web_frameword/blob/master/images/weibo.png)
 
 ## 动画演示
 
-![]()
+![](https://github.com/FrostwYc/web_frameword/blob/master/images/weibo.gif)
